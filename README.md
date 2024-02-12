@@ -1,0 +1,1 @@
+This project demonstrates usage of RIFD tags to localize an object. Here, we have kept an object with RIFD tag and placed RFID readers at different locations and then using the RSSI we of various RIFD readers at various positions we have calculated the location of the tag. The code for the same is present.
